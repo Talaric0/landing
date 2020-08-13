@@ -13,6 +13,7 @@
   box-shadow: 0 6px 8px 0 rgba(0,0,0,0.24), 0 9px 25px 0 rgba(0,0,0,0.19);
   border-radius: 7px;
   background-color: #f0e2d3;
+  overflow: hidden;
 }
 
 .card h3 {
