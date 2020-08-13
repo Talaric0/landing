@@ -1,0 +1,11 @@
+.background {
+  width: 100%;
+  height: 100vh;
+  margin: 0 auto;
+  background-attachment: fixed;
+  background: hsla(212, 87%, 64%, 1);
+  background: linear-gradient(135deg, hsla(212, 87%, 64%, 0.9) 10%, hsla(31, 49%, 88%, 1) 100%, hsla(0, 83%, 73%, 1) 100%, hsla(206, 68%, 16%, 1) 100%, hsla(211, 45%, 87%, 1) 100%);
+  background: -moz-linear-gradient(135deg, hsla(212, 87%, 64%, 0.9) 10%, hsla(31, 49%, 88%, 1) 100%, hsla(0, 83%, 73%, 1) 100%, hsla(206, 68%, 16%, 1) 100%, hsla(211, 45%, 87%, 1) 100%);
+  background: -webkit-linear-gradient(135deg, hsla(212, 87%, 64%, 0.9) 10%, hsla(31, 49%, 88%, 1) 100%, hsla(0, 83%, 73%, 1) 100%, hsla(206, 68%, 16%, 1) 100%, hsla(211, 45%, 87%, 1) 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#539ef3", endColorstr="#f0e2d3", GradientType=1 );
+}

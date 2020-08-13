@@ -1,0 +1,38 @@
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  height: auto;
+}
+
+.card {
+  width: 200px;
+  height: 270px;
+  margin-top: 15px;
+  border: 1px solid #f0e2d3;
+  box-shadow: 0 6px 8px 0 rgba(0,0,0,0.24), 0 9px 25px 0 rgba(0,0,0,0.19);
+  border-radius: 7px;
+  background-color: #f0e2d3;
+}
+
+.card h3 {
+  display: flex;
+  justify-content: center;
+  margin: 0 5px;
+  font-weight: 200;
+}
+
+.card p {
+  display: flex;
+  justify-content: center;
+  margin: 0 5px;
+  opacity: 0.5;
+}
+
+.card img{
+  align-self: center;
+  margin: 0 auto;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}

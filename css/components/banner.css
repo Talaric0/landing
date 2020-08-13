@@ -1,0 +1,10 @@
+.banner {
+  display: flex;
+  width: 80%;
+  height: 40vh;
+  align-items: center;
+  margin: 0 auto;
+  /* background-image: url('../../images/markus-spiske-qjnAnF0jIGk-unsplash.jpg'); */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
